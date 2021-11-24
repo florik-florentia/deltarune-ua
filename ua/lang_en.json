@@ -4752,7 +4752,7 @@
   "scr_monstersetup_slash_scr_monstersetup_gml_585_0": "Гіпноз",
   "scr_monstersetup_slash_scr_monstersetup_gml_586_0": "Викликає#ВТОМУ",
   "obj_joker_slash_Step_0_gml_158_0": "* Світ крутиться, крутиться.",
-  "obj_joker_slash_Step_0_gml_159_0": "* Повітря тріщить від свободи."
+  "obj_joker_slash_Step_0_gml_159_0": "* Повітря тріщить від свободи.",
   "obj_joker_slash_Step_0_gml_160_0": "* ДЖЕВІЛ нерозбірливо сміється.",
   "obj_joker_slash_Step_0_gml_161_0": "* Схоже на смерч.",
   "obj_joker_slash_Step_0_gml_162_0": "* Пахне Хаосом.",
@@ -4804,7 +4804,7 @@
   "obj_joker_slash_Step_0_gml_166_0": "* ДЖЕВІЛ викладається на повну!",
   "obj_joker_slash_Step_0_gml_167_0": "* ДЖЕВІЛ справді виснажений!",
   "DEVICE_FAILURE_slash_Step_0_gml_10_0": "\\M0 IT APPEARS YOU& HAVE REACHED^6& &    AN END./%",
-  "obj_joker_slash_Step_0_gml_201_0": "Добре^1,&ви мене&переконали!!/%"
+  "obj_joker_slash_Step_0_gml_201_0": "Добре^1,&ви мене&переконали!!/%",
   "DEVICE_FAILURE_slash_Step_0_gml_28_0": "\\M0 WILL YOU TRY AGAIN?",
   "DEVICE_FAILURE_slash_Step_0_gml_32_0": "\\M0 WILL YOU PERSIST?",
   "DEVICE_FAILURE_slash_Step_0_gml_68_0": " THEN, THE FUTURE& IS IN YOUR HANDS.",
